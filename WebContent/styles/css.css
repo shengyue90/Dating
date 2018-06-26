@@ -1,0 +1,28 @@
+  fieldset {
+  background:lightyellow;
+  border:10px solid yellow;
+  width: 720px;
+  margin-bottom: 10px;
+}
+label {
+  display:inline-block;
+  width:180px;
+  text-align:right;
+  vertical-align:top;
+}
+.range{
+  display:inline-block;
+  width:50px;
+  text-align:center;
+}
+.options{
+  display:inline-block;
+  width:auto;
+}
+textarea{
+  width:360px;
+  height:50px;
+}
+input:hover, span:hover, label:hover {
+  font-size:30px;
+}
